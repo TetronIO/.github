@@ -1,10 +1,10 @@
 ## Hey there 👋
 
-Tetron is an Identity and Cyber Security consultancy based in the UK. We build and maintain identity management software designed for organisations with complex, real-world identity landscapes.
+Tetron is a Digital Identity and Cyber Security business based in the UK. We build and maintain Identity Management software designed for organisations with complex identity landscapes.
 
 ### 🔑 JIM -- Junctional Identity Manager
 
-[JIM](https://github.com/TetronIO/JIM) is our flagship product -- a self-hosted Identity Lifecycle Management platform that synchronises identity data across directories, HR systems, and applications through a central metaverse hub.
+[JIM](https://github.com/TetronIO/JIM) is our flagship product - a self-hosted Identity Lifecycle Management platform that synchronises identity data across directories, HR systems, and applications through a central metaverse hub.
 
 - 🐳 Container-native, single-command Docker deployment
 - 🔒 Air-gapped capable -- no cloud dependencies, no phone-home
@@ -12,7 +12,7 @@ Tetron is an Identity and Cyber Security consultancy based in the UK. We build a
 - ⚡ Full REST API (120+ endpoints) and PowerShell module
 - 🔗 Connectors for Active Directory, OpenLDAP, and file-based systems
 
-JIM is in active development, approaching v0.9 stabilisation. Learn more at [tetron.io/jim](https://tetron.io/jim).
+JIM is in active development, approaching v1.0. Learn more at [junctional.io](https://junctional.io).
 
 ### 🛠️ MIMSyncScheduler
 
@@ -21,4 +21,5 @@ JIM is in active development, approaching v0.9 stabilisation. Learn more at [tet
 ### 📬 Get in Touch
 
 - Website: [tetron.io](https://tetron.io)
+- Website: [junctional.io](https://junctional.io)
 - Email: [contact@tetron.io](mailto:contact@tetron.io)
